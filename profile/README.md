@@ -28,3 +28,4 @@ Projeto conduzido com metodologia Scrum.
 ## Contato
 
 Dúvidas ou interesse no projeto? Abra uma issue ou entre em contato em
+Opticonnect@gmail.com

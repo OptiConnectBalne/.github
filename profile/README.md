@@ -22,7 +22,7 @@ Em desenvolvimento — MVP single-tenant, validando a solução com a
 |---|---|
 | Product Manager | John |
 | Scrum Master | Alfonso |
-| Product Owner | John, Robert |
+| Product Owner | Robert |
 | Desenvolvimento | Lucas, Jovito, Robert |
 
 Projeto conduzido com metodologia Scrum.
